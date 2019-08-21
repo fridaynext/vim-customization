@@ -1,3 +1,6 @@
 [submodule "pack/mypackages/start/dracula-theme"]
 	path = pack/mypackages/start/dracula-theme
 	url = https://github.com/dracula/vim.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
