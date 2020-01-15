@@ -1,3 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/etc/nginx/sites-available'
+let g:netrw_dirhist_2='/Users/casey/.vim/.git'
+let g:netrw_dirhist_3='/Users/casey/.vim/.git/modules'
+let g:netrw_dirhist_4='/Users/casey/.vim/.git/modules/pack'
+let g:netrw_dirhist_5='/Users/casey/.vim/.git/modules/pack/themes'
+let g:netrw_dirhist_6='/Users/casey/.vim/.git/modules/pack/themes/start'
+let g:netrw_dirhist_7='/Users/casey/.vim/.git/modules/pack/themes/start/bundle'
+let g:netrw_dirhist_8='/Users/casey/.vim/.git/modules/pack/themes/start/bundle/dracula'
